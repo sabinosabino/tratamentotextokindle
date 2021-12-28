@@ -1,1 +1,1 @@
-# tratamentotextokindle
+# TRATAR TEXTOS EXTRAÍDOS DE MARCAÇÕES KINDLE
